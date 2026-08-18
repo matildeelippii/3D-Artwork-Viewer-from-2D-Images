@@ -7,7 +7,7 @@ def main():
     dest_dir = "data"
     os.makedirs(dest_dir, exist_ok=True)
 
-    url_zip = "https://github.com/matildeelippii/3D-Artwork-Viewer-from-2D-Images/releases/download/v1.0-data/raw_images.zip"
+    url_zip = "https://github.com/matildeelippii/3D-Artwork-Viewer-from-2D-Images/releases/download/v1.1-data-balanced/raw_images.zip"
 
     try:
         print("Downloading the dataset...")
