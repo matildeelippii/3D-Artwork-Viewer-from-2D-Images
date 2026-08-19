@@ -1,6 +1,10 @@
 # dataset
 data/
 
+#Ignore model weights
+weights/
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
